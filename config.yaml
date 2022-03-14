@@ -17,3 +17,14 @@ params:
 outputs:
   section: ["JSON", "HTML"]
   term: ["JSON", "HTML"]
+
+menu:
+  main:
+  - identifier: Kuchenwiki
+    name: Kuchenwiki
+    pre: <i class='fa fa-birthday-cake'></i>
+    url: /kuchenwiki
+  - identifier: Zettel
+    name: Zettelkasten
+    pre: <i class='fa fa-sticky-note'></i>
+    url: /zettel
