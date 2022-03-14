@@ -1,0 +1,19 @@
+title: "Kuchenwiki"
+baseURL: "https://bpampel.github.io/kuchenwiki"
+languageCode: "de-de"
+theme: "pulp"
+canonifyURLs: true
+uglyurls: true
+sectionPagesMenu: "main"
+
+params:
+  Author: "Benjamin Pampel"
+  publicationYear: 2021
+  description: "Eine Sammlung von Kuchenrezepten"
+  avatar: "baerli.jpg"
+  avatarDescription: "Kuchen-Verspeiser"
+  favicon: "cake.ico"
+
+outputs:
+  section: ["JSON", "HTML"]
+  term: ["JSON", "HTML"]
