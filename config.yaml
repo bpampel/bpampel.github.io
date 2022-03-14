@@ -1,6 +1,6 @@
-title: "Kuchenwiki"
+title: "Benjamin Pampel"
 baseURL: "https://bpampel.github.io"
-languageCode: "de-de"
+languageCode: "en-us"
 theme: "pulp"
 canonifyURLs: true
 uglyurls: true
@@ -9,10 +9,10 @@ sectionPagesMenu: "main"
 params:
   Author: "Benjamin Pampel"
   publicationYear: 2022
-  description: "Eine Sammlung von Kuchenrezepten"
+  description: ""
   avatar: "baerli.jpg"
-  avatarDescription: "Kuchen-Verspeiser"
-  favicon: "cake.ico"
+  avatarDescription: "me"
+  favicon: "favicon.ico"
 
 outputs:
   section: ["JSON", "HTML"]
