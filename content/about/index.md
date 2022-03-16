@@ -5,14 +5,9 @@ menu: 'main'
 ---
 
 This is a short personal website.
+No commercial interests, no warranty for anything written here.
 
-I'm a physicist currently working as doctoral researcher at the [MPI-P](https://www.mpip-mainz.mpg.de/) in Mainz.
-
-My research focuses on developing new computational methods to better understand soft matter phenomena.
-
-The first part of my PhD research has now been submitted for publication and is up on [arXiv](https://arxiv.org/abs/2202.13459)!
-
-
+If you are interested in how the site is build: There will be an upcoming post in my collection of [random notes](/zettel/).
 
 ### Contact
 
