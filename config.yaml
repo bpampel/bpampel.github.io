@@ -20,6 +20,14 @@ outputs:
 
 menu:
   main:
+  - identifier: About
+    name: About
+    pre: <i class='fa fa-question'></i>
+    url: /about.html
+  - identifier: CV
+    name: CV
+    pre: <i class='fa fa-file-alt'></i>
+    url: /cv.html
   - identifier: Kuchenwiki
     name: Kuchenwiki
     pre: <i class='fa fa-birthday-cake'></i>
