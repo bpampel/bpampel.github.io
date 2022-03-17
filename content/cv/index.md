@@ -4,4 +4,4 @@ draft: false
 menu: 'main'
 ---
 
-![Resume](/img/Resume.png)
+![Resume](/img/Resume.jpg)
