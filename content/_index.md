@@ -8,5 +8,7 @@ I'm a physicist currently working as doctoral researcher at the [MPI-P](https://
 
 My research focuses on developing new computational methods to better understand soft matter phenomena.
 
-The first part of my PhD research has now been submitted for publication and is up on [arXiv](https://arxiv.org/abs/2202.13459)!
+You can read my (not yet graded) thesis [here](https://keeper.mpdl.mpg.de/f/1f0475022ef6444e8b64/).
+
+Also, the first part of my PhD research has now been submitted for publication and is up on [arXiv](https://arxiv.org/abs/2202.13459)!
 
