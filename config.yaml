@@ -24,10 +24,6 @@ menu:
     name: About
     pre: <i class='fa fa-question'></i>
     url: /about.html
-  - identifier: CV
-    name: CV
-    pre: <i class='fa fa-file-alt'></i>
-    url: /cv.html
   - identifier: github
     name: GitHub
     pre: <i class='fab fa-github'></i>
