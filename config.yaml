@@ -5,10 +5,11 @@ theme: "pulp"
 canonifyURLs: true
 uglyurls: true
 sectionPagesMenu: "main"
+enableRobotsTXT: true
 
 params:
   Author: "Benjamin Pampel"
-  publicationYear: 2022
+  publicationYear: 2023
   description: ""
   avatar: "me.png"
   avatarDescription: "me"
