@@ -1,4 +1,4 @@
-title: "Benjamin Pampel"
+title: "Benjamin Trummer"
 baseURL: "https://bpampel.de"
 languageCode: "en-us"
 theme: "pulp"
@@ -8,7 +8,7 @@ sectionPagesMenu: "main"
 enableRobotsTXT: true
 
 params:
-  Author: "Benjamin Pampel"
+  Author: "Benjamin Trummer"
   publicationYear: 2023
   description: ""
   avatar: "me.png"
